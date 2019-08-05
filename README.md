@@ -52,3 +52,18 @@ Run `make` and `./assignment1` to run all of the tests. It will also output two 
 ### Windows
 
 From the start menu (assuming you have installed Visual Studio 2019) open the "Developer Command Prompt." CD to the appropriate directory and run `nmake` and `assignment1` to run all of the tests. It will also output two `.svg` files when you are done that show the data nicely plotted. Run `nmake clean` to remove all objects files, the executable, and the svg files.
+
+## Checklist for Submission
+
+- [ ] Did you add your partner and me (@davecom) as collaborators on the repository?
+- [ ] Did you replace every area that said "YOUR CODE HERE" with your code?
+- [ ] Did you ensure you are passing all of the unit tests?
+- [ ] Did you cite all sources, especially any place that you copied code from? Put code citations right next to where you inserted it.
+- [ ] Did you add sufficient comments?
+- [ ] Did you double check your code for good style?
+- [ ] Did you remember to free any memory you manually allocated on the heap?
+- [ ] Did you put your name below mine at the top of any files you modified and any other appropriate places?
+- [ ] Did you try cleaning, building, and running once to make sure everything is in working order before submitting?
+- [ ] If you were working with an IDE, did you test building on the command line with make or nmake? I will only test your work with make or nmake.
+- [ ] Did you check the repository is free of your object files and other garbage and just contains source files?
+- [ ] Did you submit the URL to your repository on Canvas?
